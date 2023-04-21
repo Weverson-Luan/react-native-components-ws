@@ -2,7 +2,7 @@
   "name": "react-native-components-ws",
   "version": "1.0.0",
   "description": "você pode usar essa biblioteca de componentes diretamentente em seus projetos.",
-  "main": "index.js",
+  "main": "index.ts",
   "repository": "https://github.com/Weverson-Luan/lib-components",
   "author": "Weverson Luan",
   "license": "MIT",
